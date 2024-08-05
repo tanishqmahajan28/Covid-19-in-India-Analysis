@@ -9,7 +9,7 @@ This repository contains a Tableau dashboard project that visualizes the impact 
 - **Total Deaths by State:** Visualizes the total number of deaths in each state on a map.
 - **Age Group Details:** Shows the distribution of COVID-19 cases across different age groups using a pie chart.
 - **Covid Cases by State:** Line graph tracking the trend of confirmed, cured, and death cases over time.
-- **ICMR Testing Labs in Each State:** Bar chart indicating the number of ICMR testing labs in each state.
+- **ICMR Testing Labs in Each State:** Column chart indicating the number of ICMR testing labs in each state.
 - **Gender Wise Distribution:** Pie chart showing the gender-wise distribution of COVID-19 cases.
 - **State Wise Testing Details:** Bar chart presenting the number of tests conducted in each state.
 - **First vs Second Dose Administered:** Bar chart comparing the number of first and second doses of vaccine administered.
