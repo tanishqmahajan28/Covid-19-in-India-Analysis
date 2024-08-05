@@ -1,5 +1,4 @@
-# Covid-19-in-India-Analysis
-# COVID-19 in India Dashboard
+# COVID-19 in India Dashboard Analysis
 
 ## Overview
 
@@ -38,14 +37,6 @@ This dashboard can be used by:
 - **Policymakers:** To make informed decisions regarding public health measures.
 - **Health Officials:** To track the spread of the virus and effectiveness of interventions.
 - **General Public:** To stay informed about the status of COVID-19 in their region.
-
-## Screenshots
-
-![COVID-19 in India Dashboard](![Covid-19](https://github.com/user-attachments/assets/be6b7417-52a5-4100-aad7-2f46368bbe5f))
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
