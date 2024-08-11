@@ -31,7 +31,7 @@ To view the dashboard:
 2. Download the `.twbx` file from this repository.
 3. Open the `.twbx` file using Tableau Public.
 
-## Usage
+## Who Will Find This Project Useful?
 
 This dashboard can be used by:
 - **Policymakers:** To make informed decisions regarding public health measures.
